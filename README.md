@@ -1,9 +1,7 @@
-<h1> sistema de restro</h1>
+<h1> ENCRIPTADOR</h1>
 
-- Estado del proyecto: En construccion.
+- CALLENGE
 
-- para ejecutar el sistema, debes poner:
+  
 
-- ¨¨npm install react¨¨
 
--sistema de registro 2
